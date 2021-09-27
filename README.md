@@ -20,7 +20,7 @@ What were the key factors contributing to the price of accomodation for Seattle/
 
 
 ## Results<a name="results"></a>
-
+The findings of the analysis can be found in this medium article : _____. Also, the full results of the price prediction can be found in the ____
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Air BnB for the data. You can find the Licensing for the data and other descriptive information for the seattle dataset in this [link](https://www.kaggle.com/airbnb/seattle) and the Boston dataset in this [link](https://www.kaggle.com/airbnb/boston). 
+You can find the Licensing for the data and other descriptive information for the seattle dataset in this [link](https://www.kaggle.com/airbnb/seattle) and the Boston dataset in this [link](https://www.kaggle.com/airbnb/boston). Articles used in the medium article : https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-squared-error/ and https://builtin.com/data-science/random-forest-algorithm.
