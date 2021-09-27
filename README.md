@@ -23,6 +23,9 @@ There are 3 notebooks available related to the questions above. The 'Q1' noteboo
 The Seattle and Boston datasets from Kaggle are also available to view here.
 
 
+## Blog Post<a name="Blog Post"></a>
+https://medium.com/@sean554/airbnb-data-exploration-and-analysis-seattle-and-boston-b441693acef1
+
 ## Results<a name="results"></a>
 The findings of the analysis can be found [here](https://medium.com/@sean554/airbnb-data-exploration-and-analysis-seattle-and-boston-b441693acef1). The full results of the price prediction can be found in the random_forest_airbnb_results.xls file, available to view.
 
