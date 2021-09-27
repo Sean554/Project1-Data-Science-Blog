@@ -20,7 +20,7 @@ Can we use the the Seattle & Boston Airbnb data to predict price? If so, what ar
 ## File Descriptions <a name="files"></a>
 There are 3 notebooks available related to the questions above. The 'Q1' notebook answers the first question, the 'Q2' notebook answers questions 2 and 3 and the 'Q3' notebook relates to question 4. These notebooks explore a range of Airbnb data and provide insights and answers to the questions posed. Comments and markdown cells were used throughout the notebooks to explain the steps taken.
 
-The Seattle and Boston datasets from Kaggle are also available to view here.
+Data : The Seattle and Boston datasets from Kaggle are also available to view here.
 
 
 ## Blog Post<a name="Blog Post"></a>
