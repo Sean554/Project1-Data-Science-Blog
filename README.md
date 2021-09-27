@@ -22,7 +22,7 @@ There are 3 notebooks available related to the questions above. The 'Q1' noteboo
 
 
 ## Results<a name="results"></a>
-The findings of the analysis can be found [here] (https://medium.com/@sean554/airbnb-data-exploration-and-analysis-seattle-and-boston-b441693acef1). The full results of the price prediction can be found in the random_forest_airbnb_results.xls file, available to view.
+The findings of the analysis can be found [here](https://medium.com/@sean554/airbnb-data-exploration-and-analysis-seattle-and-boston-b441693acef1). The full results of the price prediction can be found in the random_forest_airbnb_results.xls file, available to view.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 You can find the Licensing for the data and other descriptive information for the seattle dataset in this [link](https://www.kaggle.com/airbnb/seattle) and the Boston dataset in this [link](https://www.kaggle.com/airbnb/boston). Articles used in the medium article : https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-squared-error/ and https://builtin.com/data-science/random-forest-algorithm.
